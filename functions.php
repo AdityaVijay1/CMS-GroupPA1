@@ -52,6 +52,32 @@ function twentytwenty_is_comment_by_post_author( $comment = null ) {
 	return false;
 }
 
+function jedu_widget_areas(){
+    register_sidebar(
+        array(
+            'before_title' => '',
+            'after_title' => '',
+            'before_widget' => '<ul class="social-list list-inline py-3 mx-auto">',
+            'after_widget' => '</ul>'
+        ),
+        array(
+            'name' => 'Sidebar Area',
+            'id' => 'sidebar-1'
+        )
+        );
+    
+        register_sidebar(
+            array(
+                'before_title' => '',
+                'after_title' => '',
+                'before_widget' => '<ul class="social-list list-inline py-3 mx-auto">',
+                'after_widget' => '</ul>',
+                'name' => 'Footer Area',
+                'id' => 'footer-1'
+            )
+            );
+}
 
+add_action('widgets_init', 'jedu_widget_areas');
 ?>
 
