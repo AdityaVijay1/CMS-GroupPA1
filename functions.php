@@ -3,6 +3,7 @@
 function jedu_theme_support(){
 add_theme_support('title-tag');
 add_theme_support('custom-logo');
+add_theme_support('post-thumbnails');
 }
 add_action('after_setup_theme', 'jedu_theme_support');
 
@@ -34,6 +35,23 @@ function jedu_register_scripts(){
 }
 
 add_action('wp_enqueue_scripts', 'jedu_register_scripts');
+
+function twentytwenty_is_comment_by_post_author( $comment = null ) {
+
+	if ( is_object( $comment ) && $comment->user_id > 0 ) {
+
+		$user = get_userdata( $comment->user_id );
+		$post = get_post( $comment->comment_post_ID );
+
+		if ( ! empty( $user ) && ! empty( $post ) ) {
+
+			return $comment->user_id === $post->post_author;
+
+		}
+	}
+	return false;
+}
+
 
 ?>
 
