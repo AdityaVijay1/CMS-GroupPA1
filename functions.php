@@ -2,9 +2,21 @@
 
 function jedu_theme_support(){
 add_theme_support('title-tag');
+add_theme_support('custom-logo');
+}
+add_action('after_setup_theme', 'jedu_theme_support');
+
+function jedu_menus(){
+    $locations = array(
+        'primary' => "Desktop Priamry Left Sidebar",
+        'footer' => "Footer Mneu Items"
+    );
+
+    register_nav_menus($locations);
 }
 
-add_action('after_setup_theme', 'jedu_theme_support');
+add_action('init', 'jedu_menus');
+
 
 function jedu_register_styles(){
     wp_enqueue_style('jedu', get_template_directory_uri() . "/style.css", array('jedu_bootstrap'), wp_get_theme()->get('Version'), 'all');
