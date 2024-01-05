@@ -1,7 +1,12 @@
 <?php 
 
 function jedu_register_styles(){
-    wp_enqueue_style('jedu', get_template_directory_uri() . "/style.css", array(), "1.0.0", 'all');
+    wp_enqueue_style('jedu', get_template_directory_uri() . "/style.css", array('jedu_bootstrap'), "1.0.0", 'all');
+    wp_enqueue_style('jedu_bootstrap', "https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css", array(), "1.0.0", 'all');
+    wp_enqueue_style('jedu_fonts',"https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.13.0/css/all.min.css", array(), "1.0.0", 'all');
+    
+    
+
 }
 
 add_action('wp_enqueue_scripts', 'jedu_register_styles');
