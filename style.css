@@ -60,7 +60,7 @@ html {
 }
 body {
     color: var(--secondary);
-    overflow-x: hidden
+    overflow-x: hidden;
 }
 a{
     color: var(--pink);
@@ -194,6 +194,7 @@ h6 {
 
 .main-wrapper {
     margin-left: var(--sidebar-width);
+
     background: #fff;
 }
 
