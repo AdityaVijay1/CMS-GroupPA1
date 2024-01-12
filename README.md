@@ -44,6 +44,16 @@ Varying Vagrants Vagrant:
 
 ![CP3402_vagrant_success](https://github.com/AdityaVijay1/CMS-GroupPA1/assets/84958533/317b80a5-c5b7-40b6-9804-4f756d561e7e)
 
+Testing Process:
+General Rules
+Steps to follow to add/update content:
+
+* For content creation, use accounts associated with one of those three roles: 'Author', 'Contributor', 'Editor'. Unless absolutely necessary, do not use 'Admin' account for creating new content.
+* First, Create backup at live server using All-in-one WP Migration, and download backup file (backup-old).
+* Import backup-old into localhost and VVV, to set up localhost as staging site.
+* Test new content and make sure there are no conflict. After everything is tested out completely, create a new backup file at localhost (new-backup).
+* Import new-backup into live site to migrate new content. 
+* Keep the backup-old for 30 days until deletion.
 
 ## Details about Project Management
 ### Project Management
