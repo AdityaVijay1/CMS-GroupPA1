@@ -70,7 +70,7 @@ Messaging app tool for online group meetings, other important project updates, c
 ### Version Control
 
 
-- GitHub Repository
+- GitHub Repository<br>
 For the purpose of Version Control for the different versions of the website along with the theme design code we used GitHub Repository to store the code and created README file's that showcases details about the theme and screenshot images of it that will help allow for further development and can easily be understood by other developers.
 
 Version 1 GitHub Repository:
