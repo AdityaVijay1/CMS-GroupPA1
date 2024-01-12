@@ -286,7 +286,7 @@ This is the final version design of our website where we have used WordPress, PH
 [Varying Vagrants Vagrant](https://varyingvagrantvagrants.org/) used for Testing stage of the website. <br>
 [Bootstrap](https://getbootstrap.com/) used for WordPress Layout Theme Coding. <br>
 [Amazon Web Services Lightsail](https://aws.amazon.com/lightsail/) for hosting the website. <br>
-[WordPress](https://wordpress.org/download/) <br>
+[WordPress](https://wordpress.org/download/) as the Content Management Systems Software. <br>
 [XAMPP](https://www.apachefriends.org/) for local hosting <br>
 
 
