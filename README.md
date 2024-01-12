@@ -21,9 +21,11 @@ Our website is hosted on [Amazon Web Services LightSail](https://aws.amazon.com/
 XAMPP allows us to setup a database that stores all the details about our WordPress where we are able to change and customize it with all the changes immediately appearing. 
 
 XAMPP:
+<br>
 ![image](https://github.com/AdityaVijay1/CMS-GroupPA1/assets/84958533/157db6ef-67e9-4abc-ada1-2a95cd497165)
 
 XAMPP Database Setup:
+<br>
 ![image](https://github.com/AdityaVijay1/CMS-GroupPA1/assets/84958533/4888642b-b3ce-4845-80bf-72c51ebc6211)
 
 
