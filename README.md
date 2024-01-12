@@ -133,12 +133,20 @@ Plugins Used in the Website:
 All these plugins greatly aid in maintaining the website as well as provides feedback on where we can improve the site's visibility in Search Engines. For the purpose of SEO - increasing our rank on search engine, the title of our site should relate to treading topics.
 
 Throughout the website we have used multiple calls-to-action to help garner the viewer's attention and reach the website's goal. We will be able to view the statistics of our website through the use of google analytics to understand how much traffic we have generated to the website.
+The registration page/form concerns gathering information from user to sign up to the James Cook University's Open House through content present on the site. Upon collecting the user's information, it is stored in a repository with their contact information attributed to each submission. The content display details about the events for the Openhouse.
 
+For registation site, we are using plugin Wordpress Forms to create forms.
 ![image](https://github.com/AdityaVijay1/CMS-GroupPA1/assets/84958533/a093a6e0-1af1-4918-96ef-b63c513c4760)
-
-
- 
 
 
 
 ## Theme 
+We have designed three versions of the website. 
+With the goals of the website in mind we have articulated the content and calls to action respectively:
+
+1) Version 1: https://github.com/AdityaVijay1/CMS-GroupPA1V1
+2) Version 2: https://github.com/AdityaVijay1/CMS-GroupPA1V2
+3) Version 3: https://github.com/AdityaVijay1/CMS-GroupPA1
+
+## Website Details and Images
+
