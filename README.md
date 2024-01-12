@@ -150,23 +150,23 @@ With the goals of the website in mind we have articulated the content and calls 
 3) Version 3: https://github.com/AdityaVijay1/CMS-GroupPA1
 
 Our Theme Design covers:
-1) Colour Scheme that is based around the client's logo
+1) Colour Scheme that is based around the client's logo <br>
 ![image](https://github.com/AdityaVijay1/CMS-GroupPA1/assets/84958533/35591636-5c8f-4ba0-8334-2c4f241177ad)
 
-2) Custom Media Images and Designs
+2) Custom Media Images and Designs <br>
 ![image](https://github.com/AdityaVijay1/CMS-GroupPA1/assets/84958533/768f1ba6-441e-4d78-a233-dafb06c874a5)
 ![image](https://github.com/AdityaVijay1/CMS-GroupPA1/assets/84958533/07674f31-2088-4e60-a6f6-8852e1019227)
 
-3) Custom Made theme using Bootstrap
+3) Custom Made theme using Bootstrap <br>
 ![image](https://github.com/AdityaVijay1/CMS-GroupPA1/assets/84958533/fb5f08fc-aeea-42b2-8a75-15ec7b8f7361)
 
-4) Custom Domain and Security
+4) Custom Domain and Security <br>
 ![image](https://github.com/AdityaVijay1/CMS-GroupPA1/assets/84958533/de47a730-9334-4bcb-8ab7-a1e9f78536a3)
 ![image](https://github.com/AdityaVijay1/CMS-GroupPA1/assets/84958533/2a2ce1c0-a0c2-4aa0-a84c-dd6801f3bbee)
 
-5) Multiple Call to Action throughout the website
+5) Multiple Call to Action throughout the website <br>
 
-6) Mobile Layout View 
+6) Mobile Layout View  <br>
 ![image](https://github.com/AdityaVijay1/CMS-GroupPA1/assets/84958533/9323c1a1-d3c2-4db6-874e-e1d455438c5a)
 
 
