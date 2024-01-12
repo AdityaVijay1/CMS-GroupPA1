@@ -49,19 +49,19 @@ Varying Vagrants Vagrant:
 ### Project Management
 Tools used:
 
-- Trello
+- Trello:
 Project Management Tool that we have used to breakdown the project goals into tasks and then manage these tasks for any updates on the project to indicate development progess based on the goal.
 ![image](https://github.com/AdityaVijay1/CMS-GroupPA1/assets/84958533/eb75baa8-90a3-4dba-8b98-3665536569ae)
 
 
 
-- Slack
+- Slack:
 Messaging app tool that our team used for communicating any important updates, having team discussions and mainly used for integration between GitHub Repository and Trello so that the team can get notifications of any changes and update the Trello board when necessary.
 ![image](https://github.com/AdityaVijay1/CMS-GroupPA1/assets/84958533/1decd19f-06bb-4a2f-981b-1436059321e7)
 ![image](https://github.com/AdityaVijay1/CMS-GroupPA1/assets/84958533/1a11f5c1-9a87-414e-83d2-edcc29db66ff)
 ![image](https://github.com/AdityaVijay1/CMS-GroupPA1/assets/84958533/0e9d461a-db19-4f3f-ba18-f6081dfbe0e5)
 
-- Discord
+- Discord:
 Messaging app tool for online group meetings, other important project updates, collaboration works, and sharing resource materials.
 
 ![image](https://github.com/AdityaVijay1/CMS-GroupPA1/assets/84958533/743cad0b-740a-49df-a97f-9d9b654ec24a)
@@ -70,7 +70,7 @@ Messaging app tool for online group meetings, other important project updates, c
 ### Version Control
 
 
-- GitHub Repository<br>
+- GitHub Repository:<br>
 For the purpose of Version Control for the different versions of the website along with the theme design code we used GitHub Repository to store the code and created README file's that showcases details about the theme and screenshot images of it that will help allow for further development and can easily be understood by other developers.
 
 Version 1 GitHub Repository:
