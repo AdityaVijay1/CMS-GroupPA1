@@ -63,6 +63,7 @@ Advanced WordPress Reset: Completely clean up database, plug-ins and themes. At 
 Shield Security: Security plugin which provides Bot detection and IP blocking that can help prevent DDoS attacks on the website.
 BlogVault: WordPress backup plugin that is used for scheduled/daily backups.
 
+<br><br>
 ## Details about Project Management
 ### Project Management
 Tools used:
@@ -113,9 +114,24 @@ Retention policy: all backup files must keep for 30 days before deletion.
 
 ## Site
 
-
 Using Amazon Web Services Lightsail we deployed our website and went live. 
-We used Amazon Route 53 to register for a custom domain name that permitted us to acquire HTTPS and SSL Certificates that provide secruity 
+We used Amazon Route 53 to register for a custom domain name that permitted us to acquire HTTPS and SSL Certificates that provide secruity and permits accessibility across all devices.
+![image](https://github.com/AdityaVijay1/CMS-GroupPA1/assets/84958533/5cbc7f5c-ace6-4cac-b765-30494cfa93a2)
+![image](https://github.com/AdityaVijay1/CMS-GroupPA1/assets/84958533/789c7bcd-5865-4d4f-8de9-5035bdbebce0)
+
+
+
+Plugins Used in the Website:
+- ALL IN ONE WP MIGRATION
+- Advanced WP Reset
+- Akismet Spam Protection
+- Shield Security
+- Smart Slider 3
+- Yoast SEO
+- WP Forms Lite
+
+All these plugins greatly aid in maintaining the website as well as provides feedback on where we can improve the site's visibility in Search Engines. 
+ 
 
 
 
