@@ -1,4 +1,4 @@
-# CP3402 Assignment 2 
+![image](https://github.com/AdityaVijay1/CMS-GroupPA1/assets/84958533/410313f9-0314-4f9a-85c5-d0c796bb462f)# CP3402 Assignment 2 
 
 This is the repository for our group's assignment 2 final version.<br>
 Group members:
@@ -243,7 +243,9 @@ This is the final version design of our website where we have used WordPress, PH
 ![image](https://github.com/AdityaVijay1/CMS-GroupPA1/assets/84958533/fa87f8f8-ea92-456e-b3da-3ca75eee1988)
 
 
-### Browser View:
+### Browser View: <br>
+![image](https://github.com/AdityaVijay1/CMS-GroupPA1/assets/84958533/d97cdf2f-f7cf-4749-b0b5-4372270a2fb3)
+ <br>
 ![image](https://github.com/AdityaVijay1/CMS-GroupPA1/assets/84958533/f972bc1e-0cee-4a51-b083-bd472059a4e0)
 
 
