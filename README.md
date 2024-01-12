@@ -55,6 +55,14 @@ Steps to follow to add/update content:
 * Import new-backup into live site to migrate new content. 
 * Keep the backup-old for 30 days until deletion.
 
+Automation
+For the purpose of maintenance we use plug-ins present in WordPress that automate the process to reduce manual labour, these include:
+
+Akismet Anti-Spam: Spam Protection: One of the most trusted anti-spam solution for WordPress websites, which protect websites from spam comments and spam contact forms.
+Advanced WordPress Reset: Completely clean up database, plug-ins and themes. At the beginning stage of development, when developers are trying out different themes, conflicts error often occur and sometimes they are unfixable, so a quick full clean reset is very useful
+Shield Security: Security plugin which provides Bot detection and IP blocking that can help prevent DDoS attacks on the website.
+BlogVault: WordPress backup plugin that is used for scheduled/daily backups.
+
 ## Details about Project Management
 ### Project Management
 Tools used:
