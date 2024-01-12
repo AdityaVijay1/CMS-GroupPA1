@@ -175,7 +175,7 @@ Our Theme Design covers:
 ## Website Details and Images
 
 This is the final version design of our website where we have used WordPress, PHP Coding, CSS and HTML coding to develop the layout and content of the website. 
-
+<br> <br> <br>
 
 # Screenshots of Version 3 Website:
 
