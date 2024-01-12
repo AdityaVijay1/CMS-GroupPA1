@@ -14,7 +14,10 @@ Through this file we hope to provide a comprehensive overview for important info
 Our website is hosted on [Amazon Web Services LightSail](https://aws.amazon.com/lightsail/) with the domain name https://jcueducation.com/ . The WordPress version used is 6.4.2.
 
 # Website Support
-
+See details on the [deployment](https://github.com/AdityaVijay1/CMS-GroupPA1?tab=readme-ov-file#deployment-workflow) for details on the staging details, project management, version control, and testing.
+See details on the [site](https://github.com/AdityaVijay1/CMS-GroupPA1?tab=readme-ov-file#site) for details about the site setup, instance and plugins.
+See details on the [theme](https://github.com/AdityaVijay1/CMS-GroupPA1?tab=readme-ov-file#site) for details about the theme and design.
+See details on the [website](https://github.com/AdityaVijay1/CMS-GroupPA1?tab=readme-ov-file#site) for screenshot images of the website with the code, browser view and view page source.
 
 ## Deployment Workflow
 
@@ -116,9 +119,10 @@ Retention policy: all backup files must keep for 30 days before deletion.
 ## Site
 
 Using Amazon Web Services Lightsail we deployed our website and went live. 
-We used Amazon Route 53 to register for a custom domain name that permitted us to acquire HTTPS and SSL Certificates that provide secruity and permits accessibility across all devices.
-![image](https://github.com/AdityaVijay1/CMS-GroupPA1/assets/84958533/5cbc7f5c-ace6-4cac-b765-30494cfa93a2)
-![image](https://github.com/AdityaVijay1/CMS-GroupPA1/assets/84958533/789c7bcd-5865-4d4f-8de9-5035bdbebce0)
+We used Amazon Route 53 to register for a custom domain name that permitted us to acquire HTTPS and SSL Certificates that provide secruity and permits accessibility across all devices. <br>
+
+![image](https://github.com/AdityaVijay1/CMS-GroupPA1/assets/84958533/5cbc7f5c-ace6-4cac-b765-30494cfa93a2) <br>
+![image](https://github.com/AdityaVijay1/CMS-GroupPA1/assets/84958533/789c7bcd-5865-4d4f-8de9-5035bdbebce0) <br>
 
 
 
