@@ -1,4 +1,4 @@
-![CP3402_vagrant_error1](https://github.com/AdityaVijay1/CMS-GroupPA1/assets/84958533/8a65e9e9-5245-48e4-9900-598dfa632563)# CP3402 Assignment 2 
+# CP3402 Assignment 2 
 
 This is the repository for our group's assignment 2 final version.<br>
 Group members:
