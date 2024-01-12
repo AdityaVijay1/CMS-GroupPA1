@@ -16,6 +16,8 @@ Our website is hosted on [Amazon Web Services LightSail](https://aws.amazon.com/
 
 
 ## Deployment Workflow
+
+## Staging and Development
 ### Staging and Production
 - For staging and the production of the website we used localhost through [XAMPP](https://www.apachefriends.org/) that allows us to locally host and design the website, make any changes and we are able to instantly view it.
 XAMPP allows us to setup a database that stores all the details about our WordPress where we are able to change and customize it with all the changes immediately appearing. 
@@ -31,7 +33,7 @@ XAMPP Database Setup:
 
 ### Local Development and Testing
 - For the local development we setup Varying Vagrants Vagrant that allows for creating a development environment where we can design our changes and view all the changes, this also allowed us to focus on coding and feature development.
-- We also used 
+- Using VVV also allowed us for rigorous testing and quality assurance of the website before we go live with the website.
 
 Varying Vagrants Vagrant:
 
@@ -43,12 +45,17 @@ Varying Vagrants Vagrant:
 ![CP3402_vagrant_success](https://github.com/AdityaVijay1/CMS-GroupPA1/assets/84958533/317b80a5-c5b7-40b6-9804-4f756d561e7e)
 
 
+## Details about Project Management
+### Project Management
 
 
 
+## Site
+
+
+Using Amazon Web Services Lightsail we deployed our website and went live. 
+We used Amazon Route 53 to register for a custom domain name that permitted us to acquire HTTPS and SSL Certificates that provide secruity 
 
 
 
-### Site
-
-### Theme 
+## Theme 
