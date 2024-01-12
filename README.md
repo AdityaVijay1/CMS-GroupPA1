@@ -182,37 +182,46 @@ This is the final version design of our website where we have used WordPress, PH
 ## Header.php
 
 ### Code:
-![image](https://github.com/AdityaVijay1/CMS-GroupPA1V1/assets/84958533/3abe0a7a-4bad-411f-b51a-902e4684dfc1)
+![image](https://github.com/AdityaVijay1/CMS-GroupPA1/assets/84958533/b7ae14a5-4847-4014-bc08-62da121b2cd8)
+
 ### Browser View:
-![image](https://github.com/AdityaVijay1/CMS-GroupPA1V1/assets/84958533/3a10c8c0-a2e0-4871-bdf6-8aac0dc3b3e6)
+![image](https://github.com/AdityaVijay1/CMS-GroupPA1/assets/84958533/937ad12b-2aee-427f-9355-78f7526892bb)
+
 ### View Source:
-![image](https://github.com/AdityaVijay1/CMS-GroupPA1V1/assets/84958533/d7edbb7a-c752-492c-926f-9a3cf885efe3)
+![image](https://github.com/AdityaVijay1/CMS-GroupPA1/assets/84958533/d070877f-04ce-42ca-92fb-112415336b91)
+
 
 <br><br><br>
 
 ## Footer.php
 
 ### Code:
-![image](https://github.com/AdityaVijay1/CMS-GroupPA1V1/assets/84958533/3a64136c-e0a4-40e6-983e-9db8a43d56d9)
+![image](https://github.com/AdityaVijay1/CMS-GroupPA1/assets/84958533/cf8a0bba-fe89-4fbe-a7ac-7f381cbca254)
+
 
 ### Browser View:
-![image](https://github.com/AdityaVijay1/CMS-GroupPA1V1/assets/84958533/fdfb56b5-29c6-42ec-8e3c-b3d12502e98d)
+![image](https://github.com/AdityaVijay1/CMS-GroupPA1/assets/84958533/09ad04de-0b62-44e1-925c-0c955df2b06e)
+
 
 ### View Source:
-![image](https://github.com/AdityaVijay1/CMS-GroupPA1V1/assets/84958533/288f190c-664d-4330-8a28-580b941830e9)
+![image](https://github.com/AdityaVijay1/CMS-GroupPA1/assets/84958533/b9237754-400d-4b16-80b9-ca13b4c591f1)
+
 
 <br><br><br>
 
 ## Front-Page.php
 
 ### Code:
-![image](https://github.com/AdityaVijay1/CMS-GroupPA1V1/assets/84958533/ee4647c3-fc38-47e5-89dc-8aa573c983ed)
+![image](https://github.com/AdityaVijay1/CMS-GroupPA1/assets/84958533/1a137141-6d4d-4a41-b129-18831e3b7813)
+
 
 ### Browser View:
-![image](https://github.com/AdityaVijay1/CMS-GroupPA1V1/assets/84958533/ddc5c3a7-31fa-4029-ba85-7c1e97eff9dc)
+![image](https://github.com/AdityaVijay1/CMS-GroupPA1/assets/84958533/31c7aca4-6d15-415b-b09a-d463a7c331fe)
+
 
 ### View Source:
-![image](https://github.com/AdityaVijay1/CMS-GroupPA1V1/assets/84958533/ce73f956-9eea-43cd-beae-a41aa1d4442b)
+![image](https://github.com/AdityaVijay1/CMS-GroupPA1/assets/84958533/fb7757ee-421e-4ad6-ac55-56ee6956c64c)
+
 
 
 <br><br><br>
@@ -220,40 +229,48 @@ This is the final version design of our website where we have used WordPress, PH
 ## style.css
 
 ### Code:
-![image](https://github.com/AdityaVijay1/CMS-GroupPA1V1/assets/84958533/6e0480c4-02d6-4666-82e9-72d530a7f722)
+![image](https://github.com/AdityaVijay1/CMS-GroupPA1/assets/84958533/fa87f8f8-ea92-456e-b3da-3ca75eee1988)
+
 
 ### Browser View:
-![image](https://github.com/AdityaVijay1/CMS-GroupPA1V1/assets/84958533/be869c24-fab0-4e49-8718-8d4ff1c817af)
+![image](https://github.com/AdityaVijay1/CMS-GroupPA1/assets/84958533/f972bc1e-0cee-4a51-b083-bd472059a4e0)
+
 
 ### View Source:
-![image](https://github.com/AdityaVijay1/CMS-GroupPA1V1/assets/84958533/eec088d2-b33f-4cb0-af7f-4f4bc3ad74e2)
+![image](https://github.com/AdityaVijay1/CMS-GroupPA1/assets/84958533/54d1f499-e135-4d83-a303-b6f8fa2aa26d)
+
 
 <br><br><br>
 
 ## Functions.php
 
 ### Code:
-![image](https://github.com/AdityaVijay1/CMS-GroupPA1V1/assets/84958533/4d51f53b-907f-45fe-a77a-fba62d8544d8)
+![image](https://github.com/AdityaVijay1/CMS-GroupPA1/assets/84958533/d91e125e-977b-4174-b9b7-0ca210eac4df)
+
 
 ### Browser View:
-![image](https://github.com/AdityaVijay1/CMS-GroupPA1V1/assets/84958533/2880da7f-067e-4164-816d-56e57b9aee05)
+![image](https://github.com/AdityaVijay1/CMS-GroupPA1/assets/84958533/7c32d0b2-2d42-42ab-ab98-debe86f1d70d)
+
 
 ### View Source:
-![image](https://github.com/AdityaVijay1/CMS-GroupPA1V1/assets/84958533/f8e4c590-c9ec-42fe-9d80-203b0d7f06f9)
+![image](https://github.com/AdityaVijay1/CMS-GroupPA1/assets/84958533/6d8a8c1e-3dda-46b8-a999-8351c23b5bae)
+
 
 ## Single.php
 
 ### Code:
-![image](https://github.com/AdityaVijay1/CMS-GroupPA1V1/assets/84958533/e418db57-839b-460a-b324-1b5229d96b85)
+![image](https://github.com/AdityaVijay1/CMS-GroupPA1/assets/84958533/61f5fa5c-abe5-488c-b02c-ea6f7a641154)
+
 
 ### Browser View:
-![image](https://github.com/AdityaVijay1/CMS-GroupPA1V1/assets/84958533/7d249dcc-53d3-4f57-9c86-40d919ec60ab)
+![image](https://github.com/AdityaVijay1/CMS-GroupPA1/assets/84958533/e394de05-302a-4021-9e89-82f3743f0d0d)
+
 
 ### View Source:
-![image](https://github.com/AdityaVijay1/CMS-GroupPA1V1/assets/84958533/152b905f-2b5d-4a4d-8002-c1a3524b7b99)
+![image](https://github.com/AdityaVijay1/CMS-GroupPA1/assets/84958533/03ac2cc9-cc4d-46ae-9924-a78b43974efb)
 
 
-
+# References
 
 
 
