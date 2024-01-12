@@ -73,6 +73,8 @@ Messaging app tool for online group meetings, other important project updates, c
 - GitHub Repository:<br>
 For the purpose of Version Control for the different versions of the website along with the theme design code we used GitHub Repository to store the code and created README file's that showcases details about the theme and screenshot images of it that will help allow for further development and can easily be understood by other developers.
 
+Stored PHP Files, HTML, CSS and Js Files.
+<br>
 Version 1 GitHub Repository:
 ![image](https://github.com/AdityaVijay1/CMS-GroupPA1/assets/84958533/5621b4cd-fef1-458a-a096-5c95cb72ce41)
 
@@ -83,6 +85,12 @@ Version 2 GitHub Repository:
 
 Version 3/Final Version GitHub Repository:
 ![image](https://github.com/AdityaVijay1/CMS-GroupPA1/assets/84958533/4d02e819-d5ce-4974-8d6a-bbf14376b0a3)
+
+- Backup plugin & backup policy
+Everyday, admins have to create backup at live server using All-in-one WP Migration Plugin Tool, to download backup file name it as backup-YYYY-MM-DD.
+Retention policy: all backup files must keep for 30 days before deletion.
+![image](https://github.com/AdityaVijay1/CMS-GroupPA1/assets/84958533/22f48452-41a5-46d7-9a91-d63e2538af6b)
+
 
 
 ## Site
