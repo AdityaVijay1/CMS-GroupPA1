@@ -165,6 +165,10 @@ Our Theme Design covers:
 ![image](https://github.com/AdityaVijay1/CMS-GroupPA1/assets/84958533/2a2ce1c0-a0c2-4aa0-a84c-dd6801f3bbee)
 
 5) Multiple Call to Action throughout the website <br>
+![image](https://github.com/AdityaVijay1/CMS-GroupPA1/assets/84958533/e73a3da3-104a-4970-9290-14287a069b2d)
+![image](https://github.com/AdityaVijay1/CMS-GroupPA1/assets/84958533/5de6aed5-9529-4a7e-b136-a7c10babfa38)
+
+
 
 6) Mobile Layout View  <br>
 ![image](https://github.com/AdityaVijay1/CMS-GroupPA1/assets/84958533/9323c1a1-d3c2-4db6-874e-e1d455438c5a)
