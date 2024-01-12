@@ -1,4 +1,4 @@
-# CP3402 Assignment 2 
+![CP3402_vagrant_error1](https://github.com/AdityaVijay1/CMS-GroupPA1/assets/84958533/8a65e9e9-5245-48e4-9900-598dfa632563)# CP3402 Assignment 2 
 
 This is the repository for our group's assignment 2 final version.<br>
 Group members:
@@ -30,7 +30,15 @@ XAMPP Database Setup:
 
 
 ### Local Development and Testing
+- For the local development we setup Varying Vagrants Vagrant that allows for creating a development environment where we can design our changes and view all the changes, this also allowed us to focus on coding and feature development.
+- We also used 
 
-## Site
+Varying Vagrants Vagrant:
 
-## Theme 
+![vvvvvv](https://github.com/AdityaVijay1/CMS-GroupPA1/assets/84958533/d649f9c9-940e-4867-b5f9-8708af67aa2c)
+
+
+
+### Site
+
+### Theme 
