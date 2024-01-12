@@ -1,4 +1,4 @@
-![image](https://github.com/AdityaVijay1/CMS-GroupPA1/assets/84958533/cf84f892-77f4-40db-bbf0-4c5a29cc1e53)# CP3402 Assignment 2 
+# CP3402 Assignment 2 
 
 This is the repository for our group's assignment 2 final version.<br>
 Group members:
