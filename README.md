@@ -38,6 +38,16 @@ Varying Vagrants Vagrant:
 ![vvvvvv](https://github.com/AdityaVijay1/CMS-GroupPA1/assets/84958533/d649f9c9-940e-4867-b5f9-8708af67aa2c)
 
 
+![CP3402_vagrant_](https://github.com/AdityaVijay1/CMS-GroupPA1/assets/84958533/c6e5a07f-9108-4286-bbd1-83b0f2fac5b9)
+
+![CP3402_vagrant_success](https://github.com/AdityaVijay1/CMS-GroupPA1/assets/84958533/317b80a5-c5b7-40b6-9804-4f756d561e7e)
+
+
+
+
+
+
+
 
 ### Site
 
