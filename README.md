@@ -1,4 +1,4 @@
-# CP3402 Assignment 2 
+![image](https://github.com/AdityaVijay1/CMS-GroupPA1/assets/84958533/cf84f892-77f4-40db-bbf0-4c5a29cc1e53)# CP3402 Assignment 2 
 
 This is the repository for our group's assignment 2 final version.<br>
 Group members:
@@ -7,7 +7,8 @@ Group members:
 * Shreya Ranjan
 * Albert Alvaro
 
-This is the README file for Group PA-1 WordPress website, it provides a overview for important information about our website and how it's set up.
+This is the README file for Group PA-1 WordPress website.
+Through this file we hope to provide a comprehensive overview for important information about our website, how it's set up, staging, deployment, site maintenance and theme development. 
 
 # Website Details
 Our website is hosted on [Amazon Web Services LightSail](https://aws.amazon.com/lightsail/) with the domain name https://jcueducation.com/ . The WordPress version used is 6.4.2.
@@ -147,6 +148,29 @@ With the goals of the website in mind we have articulated the content and calls 
 1) Version 1: https://github.com/AdityaVijay1/CMS-GroupPA1V1
 2) Version 2: https://github.com/AdityaVijay1/CMS-GroupPA1V2
 3) Version 3: https://github.com/AdityaVijay1/CMS-GroupPA1
+
+Our Theme Design covers:
+1) Colour Scheme that is based around the client's logo
+![image](https://github.com/AdityaVijay1/CMS-GroupPA1/assets/84958533/35591636-5c8f-4ba0-8334-2c4f241177ad)
+
+2) Custom Media Images and Designs
+![image](https://github.com/AdityaVijay1/CMS-GroupPA1/assets/84958533/768f1ba6-441e-4d78-a233-dafb06c874a5)
+![image](https://github.com/AdityaVijay1/CMS-GroupPA1/assets/84958533/07674f31-2088-4e60-a6f6-8852e1019227)
+
+3) Custom Made theme using Bootstrap
+![image](https://github.com/AdityaVijay1/CMS-GroupPA1/assets/84958533/fb5f08fc-aeea-42b2-8a75-15ec7b8f7361)
+
+4) Custom Domain and Security
+![image](https://github.com/AdityaVijay1/CMS-GroupPA1/assets/84958533/de47a730-9334-4bcb-8ab7-a1e9f78536a3)
+![image](https://github.com/AdityaVijay1/CMS-GroupPA1/assets/84958533/2a2ce1c0-a0c2-4aa0-a84c-dd6801f3bbee)
+
+5) Multiple Call to Action throughout the website
+
+6) Mobile Layout View 
+![image](https://github.com/AdityaVijay1/CMS-GroupPA1/assets/84958533/9323c1a1-d3c2-4db6-874e-e1d455438c5a)
+
+
+
 
 ## Website Details and Images
 
