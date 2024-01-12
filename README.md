@@ -151,8 +151,9 @@ With the goals of the website in mind we have articulated the content and calls 
 
 Our Theme Design covers:
 1) Colour Scheme that is based around the client's logo <br>
-![image](https://github.com/AdityaVijay1/CMS-GroupPA1/assets/84958533/8338540c-e167-43c5-a592-1839b55d1351) <br>
+![jculgogo](https://github.com/AdityaVijay1/CMS-GroupPA1/assets/84958533/86d865d8-f9b3-4708-8006-eac666c4ebfb) <br>
 
+Colour palette
 ![image](https://github.com/AdityaVijay1/CMS-GroupPA1/assets/84958533/35591636-5c8f-4ba0-8334-2c4f241177ad)
 
 2) Custom Media Images and Designs <br>
