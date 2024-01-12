@@ -14,10 +14,10 @@ Through this file we hope to provide a comprehensive overview for important info
 Our website is hosted on [Amazon Web Services LightSail](https://aws.amazon.com/lightsail/) with the domain name https://jcueducation.com/ . The WordPress version used is 6.4.2.
 
 # Website Support
-See details on the [deployment](https://github.com/AdityaVijay1/CMS-GroupPA1?tab=readme-ov-file#deployment-workflow) for details on the staging details, project management, version control, and testing.
-See details on the [site](https://github.com/AdityaVijay1/CMS-GroupPA1?tab=readme-ov-file#site) for details about the site setup, instance and plugins.
-See details on the [theme](https://github.com/AdityaVijay1/CMS-GroupPA1?tab=readme-ov-file#site) for details about the theme and design.
-See details on the [website](https://github.com/AdityaVijay1/CMS-GroupPA1?tab=readme-ov-file#site) for screenshot images of the website with the code, browser view and view page source.
+See details on the [deployment](https://github.com/AdityaVijay1/CMS-GroupPA1?tab=readme-ov-file#deployment-workflow) for details on the staging details, project management, version control, and testing. <br>
+See details on the [site](https://github.com/AdityaVijay1/CMS-GroupPA1?tab=readme-ov-file#site) for details about the site setup, instance and plugins. <br>
+See details on the [theme](https://github.com/AdityaVijay1/CMS-GroupPA1?tab=readme-ov-file#site) for details about the theme and design. <br>
+See details on the [website](https://github.com/AdityaVijay1/CMS-GroupPA1?tab=readme-ov-file#site) for screenshot images of the website with the code, browser view and view page source. <br>
 
 ## Deployment Workflow
 
