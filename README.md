@@ -47,7 +47,42 @@ Varying Vagrants Vagrant:
 
 ## Details about Project Management
 ### Project Management
+Tools used:
 
+- Trello
+Project Management Tool that we have used to breakdown the project goals into tasks and then manage these tasks for any updates on the project to indicate development progess based on the goal.
+![image](https://github.com/AdityaVijay1/CMS-GroupPA1/assets/84958533/eb75baa8-90a3-4dba-8b98-3665536569ae)
+
+
+
+- Slack
+Messaging app tool that our team used for communicating any important updates, having team discussions and mainly used for integration between GitHub Repository and Trello so that the team can get notifications of any changes and update the Trello board when necessary.
+![image](https://github.com/AdityaVijay1/CMS-GroupPA1/assets/84958533/1decd19f-06bb-4a2f-981b-1436059321e7)
+![image](https://github.com/AdityaVijay1/CMS-GroupPA1/assets/84958533/1a11f5c1-9a87-414e-83d2-edcc29db66ff)
+![image](https://github.com/AdityaVijay1/CMS-GroupPA1/assets/84958533/0e9d461a-db19-4f3f-ba18-f6081dfbe0e5)
+
+- Discord
+Messaging app tool for online group meetings, other important project updates, collaboration works, and sharing resource materials.
+
+![image](https://github.com/AdityaVijay1/CMS-GroupPA1/assets/84958533/743cad0b-740a-49df-a97f-9d9b654ec24a)
+ 
+
+### Version Control
+
+
+- GitHub Repository
+For the purpose of Version Control for the different versions of the website along with the theme design code we used GitHub Repository to store the code and created README file's that showcases details about the theme and screenshot images of it that will help allow for further development and can easily be understood by other developers.
+
+Version 1 GitHub Repository:
+![image](https://github.com/AdityaVijay1/CMS-GroupPA1/assets/84958533/5621b4cd-fef1-458a-a096-5c95cb72ce41)
+
+Version 2 GitHub Repository:
+
+![image](https://github.com/AdityaVijay1/CMS-GroupPA1/assets/84958533/6b70cb7f-2ec2-47d8-b0ce-00d0fbed835a)
+
+
+Version 3/Final Version GitHub Repository:
+![image](https://github.com/AdityaVijay1/CMS-GroupPA1/assets/84958533/4d02e819-d5ce-4974-8d6a-bbf14376b0a3)
 
 
 ## Site
