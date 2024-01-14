@@ -19,8 +19,10 @@ See details on the [site](https://github.com/AdityaVijay1/CMS-GroupPA1?tab=readm
 See details on the [theme](https://github.com/AdityaVijay1/CMS-GroupPA1?tab=readme-ov-file#site) for details about the theme and design. <br>
 See details on the [website](https://github.com/AdityaVijay1/CMS-GroupPA1?tab=readme-ov-file#site) for screenshot images of the website with the code, browser view and view page source. <br>
 
+
+# Interface Design
 Our Team particularly liked this specific interface design due to the way we have fully utilized the custom made theme which allows for dynamic content to be added through WordPress that is the custom media images, the required content and multiple calls to action to reach the website's goals and audience, making it a professional dedicated website. <br> <br>
-## Interface Design: <br>
+Interface Design: <br>
 ![image](https://github.com/AdityaVijay1/CMS-GroupPA1/assets/84958533/49075f0b-3721-4724-a8bf-0174c3c13096)
 
 # Website Details and Information 
@@ -301,7 +303,6 @@ This is the final version design of our website where we have used WordPress, PH
 ### View Source:
 ![image](https://github.com/AdityaVijay1/CMS-GroupPA1/assets/84958533/03ac2cc9-cc4d-46ae-9924-a78b43974efb)
 
-# Add INTERFACE DESIGN THAT WE ARE PROUD OF and EXPLAIN WHY WE LIKE IT
 # References
 
 [Varying Vagrants Vagrant](https://varyingvagrantvagrants.org/) used for Testing stage of the website. <br>
@@ -309,6 +310,7 @@ This is the final version design of our website where we have used WordPress, PH
 [Amazon Web Services Lightsail](https://aws.amazon.com/lightsail/) for hosting the website. <br>
 [WordPress](https://wordpress.org/download/) as the Content Management Systems Software. <br>
 [XAMPP](https://www.apachefriends.org/) for local hosting <br>
+[WordPress Workflow](https://seahawkmedia.com/wordpress/wordpress-development-workflow/) for WordPress Development Workflow <br>
 
 
 
