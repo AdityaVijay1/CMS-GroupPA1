@@ -23,7 +23,7 @@ Our Team particularly liked this specific interface design due to the way we hav
 ## Interface Design: <br>
 ![image](https://github.com/AdityaVijay1/CMS-GroupPA1/assets/84958533/49075f0b-3721-4724-a8bf-0174c3c13096)
 
-## Website Details
+# Website Details and Information 
 
 * Website is available, up-to-date and working in production. Available to view at https://jcueducation.com/
 * Website's content is complete, accurate and the text and media used are well integrated and optimized. Goals of the website are clearly evident in the design with multiple and appropriate use of calls-to-action
