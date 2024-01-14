@@ -29,7 +29,7 @@ Our Team particularly liked this specific interface design due to the way we hav
 * Website's content is complete, accurate and the text and media used are well integrated and optimized. Goals of the website are clearly evident in the design with multiple and appropriate use of calls-to-action
 * Website's content is well organized and navigation is unique and intuitive.
 * Through utilizing plugins such as Yoast SEO, we were able to drastically improve the Search Engine Optimization for the Website which essentially made it suitable for scanning and for site goals, the images used enhance the meaning of the text content.
-* Theme Development is complete follows WordPress standards and guidelines; theme is reusable and can be used to dynamically create content on the website, the content is not hard coded.  
+* Theme Development is complete and follows WordPress standards and guidelines; theme is reusable and can be used to dynamically create content on the website, the content is not hard coded.  
 * Version Control is used appropriately with decent commit messages and no duplicate files or folders.  
 * Very good usage of tools and resources that are present in the real-world Industry as well  
 * Documentation is complete, well written, error free and done well in the sense to allow future development and deployment of the site. 
