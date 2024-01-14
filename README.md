@@ -19,6 +19,25 @@ See details on the [site](https://github.com/AdityaVijay1/CMS-GroupPA1?tab=readm
 See details on the [theme](https://github.com/AdityaVijay1/CMS-GroupPA1?tab=readme-ov-file#site) for details about the theme and design. <br>
 See details on the [website](https://github.com/AdityaVijay1/CMS-GroupPA1?tab=readme-ov-file#site) for screenshot images of the website with the code, browser view and view page source. <br>
 
+Our Team particularly liked this specific interface design due to the way we have fully utilized the custom made theme which allows for dynamic content to be added through WordPress that is the custom media images, the required content and multiple calls to action to reach the website's goals and audience, making it a professional dedicated website. <br> <br>
+## Interface Design: <br>
+![image](https://github.com/AdityaVijay1/CMS-GroupPA1/assets/84958533/49075f0b-3721-4724-a8bf-0174c3c13096)
+
+# Website Details and Information 
+
+* Website is available, up-to-date and working in production. Available to view at https://jcueducation.com/
+* Website's content is complete, accurate and the text and media used are well integrated and optimized. Goals of the website are clearly evident in the design with multiple and appropriate use of calls-to-action
+* Website's content is well organized and navigation is unique and intuitive.
+* Through utilizing plugins such as Yoast SEO, we were able to drastically improve the Search Engine Optimization for the Website which essentially made it suitable for scanning and for site goals, the images used enhance the meaning of the text content.
+* Theme Development is complete and follows WordPress standards and guidelines; theme is reusable and can be used to dynamically create content on the website, the content is not hard coded.  
+* Version Control is used appropriately with decent commit messages and no duplicate files or folders.  
+* Very good usage of tools and resources that are present in the real-world Industry as well  
+* Documentation is complete, well written, error free and done well in the sense to allow future development and deployment of the site. 
+  
+  
+
+
+
 ## Deployment Workflow
 
 ## Staging and Development
