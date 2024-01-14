@@ -19,8 +19,8 @@ See details on the [site](https://github.com/AdityaVijay1/CMS-GroupPA1?tab=readm
 See details on the [theme](https://github.com/AdityaVijay1/CMS-GroupPA1?tab=readme-ov-file#site) for details about the theme and design. <br>
 See details on the [website](https://github.com/AdityaVijay1/CMS-GroupPA1?tab=readme-ov-file#site) for screenshot images of the website with the code, browser view and view page source. <br>
 
-Our Team particularly liked this specific interface design due to the way we have fully utilized the custom made theme which allows for dynamic content to be added through WordPress that is the custom media images, the required content and multiple calls to action to reach the website's goals.
-Interface Design: 
+Our Team particularly liked this specific interface design due to the way we have fully utilized the custom made theme which allows for dynamic content to be added through WordPress that is the custom media images, the required content and multiple calls to action to reach the website's goals. <br>
+Interface Design: <br>
 ![image](https://github.com/AdityaVijay1/CMS-GroupPA1/assets/84958533/49075f0b-3721-4724-a8bf-0174c3c13096)
 
 
